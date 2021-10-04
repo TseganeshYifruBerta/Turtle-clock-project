@@ -1,7 +1,7 @@
 #I try to write my code only using turtle functions.The main purpose of this project is creating clock only by using turtle graphics.(“i try to create my own turtle analog clock by using only turtle graphics”)
 import turtle
 t=turtle.Screen()
-t.title("TSEGANESH_YIFRU_SECTION_1_UGR/3970")
+t.title("clock design")
 t.setup(width=410,height=410)
 #t.bgpic('img.gif')
 t.bgcolor('black')
