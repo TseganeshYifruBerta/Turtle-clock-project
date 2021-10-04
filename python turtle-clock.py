@@ -40,7 +40,7 @@ def name_writer():
  name.penup()
  name.forward(170)
  name.pendown()
- name.color('black')
+ name.color('white')
  name.write("TCLOCK",font=type,align='center')
 def text_writer(x=0,y=0,r=110):
  text.left(90)
