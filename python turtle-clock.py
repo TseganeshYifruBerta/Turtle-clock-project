@@ -1,4 +1,4 @@
-#I try to write my code only using turtle functions.Because in my opinion the main purpose of this project is creating clock by using only turtle graphics so in my view it’s not useful to import time to make the turtle work(“i try to create my own turtle analog clock by using only turtle graphics”)
+#I try to write my code only using turtle functions.The main purpose of this project is creating clock only by using turtle graphics.(“i try to create my own turtle analog clock by using only turtle graphics”)
 import turtle
 t=turtle.Screen()
 t.title("TSEGANESH_YIFRU_SECTION_1_UGR/3970")
